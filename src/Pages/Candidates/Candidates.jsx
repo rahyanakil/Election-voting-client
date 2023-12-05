@@ -20,10 +20,10 @@ const Candidates = () => {
                 <div>
                   <h1 className="text-xl font-bold">মোঃ আবুল কালাম আজাদ</h1>
                   <div className="flex gap-4">
-                    <p className=" py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className=" py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       এমপি পদপ্রার্থী
                     </p>
-                    <p className="py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className="py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       রাজশাহী বিভাগ
                     </p>
                   </div>
@@ -51,10 +51,10 @@ const Candidates = () => {
                 <div>
                   <h1 className="text-xl font-bold">মোঃ আবুল কালাম আজাদ</h1>
                   <div className="flex gap-4">
-                    <p className=" py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className=" py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       এমপি পদপ্রার্থী
                     </p>
-                    <p className="py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className="py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       রাজশাহী বিভাগ
                     </p>
                   </div>
@@ -82,10 +82,10 @@ const Candidates = () => {
                 <div>
                   <h1 className="text-xl font-bold">মোঃ আবুল কালাম আজাদ</h1>
                   <div className="flex gap-4">
-                    <p className=" py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className=" py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       এমপি পদপ্রার্থী
                     </p>
-                    <p className="py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className="py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       রাজশাহী বিভাগ
                     </p>
                   </div>
@@ -113,10 +113,10 @@ const Candidates = () => {
                 <div>
                   <h1 className="text-xl font-bold">মোঃ আবুল কালাম আজাদ</h1>
                   <div className="flex gap-4">
-                    <p className=" py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className=" py-2 text-zinc-400 text-[22px]  font-['Li Ador Noirrit'] leading-normal">
                       এমপি পদপ্রার্থী
                     </p>
-                    <p className="py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className="py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       রাজশাহী বিভাগ
                     </p>
                   </div>
@@ -154,10 +154,10 @@ const Candidates = () => {
                 <div>
                   <h1 className="text-xl font-bold">মোঃ আবুল কালাম আজাদ</h1>
                   <div className="flex gap-4">
-                    <p className=" py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className=" py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       এমপি পদপ্রার্থী
                     </p>
-                    <p className="py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className="py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       রাজশাহী বিভাগ
                     </p>
                   </div>
@@ -185,10 +185,10 @@ const Candidates = () => {
                 <div>
                   <h1 className="text-xl font-bold">মোঃ আবুল কালাম আজাদ</h1>
                   <div className="flex gap-4">
-                    <p className=" py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className=" py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       এমপি পদপ্রার্থী
                     </p>
-                    <p className="py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className="py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       রাজশাহী বিভাগ
                     </p>
                   </div>
@@ -216,10 +216,10 @@ const Candidates = () => {
                 <div>
                   <h1 className="text-xl font-bold">মোঃ আবুল কালাম আজাদ</h1>
                   <div className="flex gap-4">
-                    <p className=" py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className=" py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       এমপি পদপ্রার্থী
                     </p>
-                    <p className="py-2 text-zinc-400 text-[22px] font-normal font-['Li Ador Noirrit'] leading-normal">
+                    <p className="py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       রাজশাহী বিভাগ
                     </p>
                   </div>

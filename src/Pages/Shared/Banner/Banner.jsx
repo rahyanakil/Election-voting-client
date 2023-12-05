@@ -12,22 +12,22 @@ const Banner = () => {
         <div className="form-control">
           <label className="label">
           </label>
-          <input type="text" placeholder="বিভাগ নির্বাচন করুন" className=" w-58 input input-bordered text-zinc-700 text-base font-normal font-['Li Ador Noirrit'] leading-normal" required />
+          <input type="text" placeholder="বিভাগ নির্বাচন করুন" className=" w-58 input input-bordered text-zinc-700 text-sm font-['Li Ador Noirrit'] leading-normal" required />
         </div>
         <div className="form-control">
           <label className="label">
           </label>
-          <input type="text" placeholder="জেলা নির্বাচন করুন" className="input input-bordered text-zinc-700 text-base font-normal font-['Li Ador Noirrit'] leading-normal" required />
+          <input type="text" placeholder="জেলা নির্বাচন করুন" className="input input-bordered text-zinc-700  text-sm font-['Li Ador Noirrit'] leading-normal" required />
         </div>
         <div className="form-control">
           <label className="label">
           </label>
-          <input type="text" placeholder="উপজেলা নির্বাচন করুন" className="input input-bordered text-zinc-700 text-base font-normal font-['Li Ador Noirrit'] leading-normal " required />
+          <input type="text" placeholder="উপজেলা নির্বাচন করুন" className="input input-bordered text-zinc-700 text-sm font-['Li Ador Noirrit'] leading-normal " required />
         </div>
         <div className="form-control">
         <label className="label">
           </label>
-          <input type="text" placeholder="নির্বাচনী এলাকা নির্বাচন করুন" className="input input-bordered text-zinc-700 text-base font-normal font-['Li Ador Noirrit'] leading-normal" required />
+          <input type="text" placeholder="নির্বাচনী এলাকা নির্বাচন করুন" className="input input-bordered text-zinc-700 text-sm  font-['Li Ador Noirrit'] leading-normal" required/>
         </div>
         
 
