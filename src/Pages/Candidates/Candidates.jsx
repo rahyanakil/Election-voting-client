@@ -113,8 +113,8 @@ const Candidates = () => {
                 <div>
                   <h1 className="text-xl font-bold">মোঃ আবুল কালাম আজাদ</h1>
                   <div className="flex gap-4">
-                    <p className=" py-2 text-zinc-400 text-[22px]  font-['Li Ador Noirrit'] leading-normal">
-                      এমপি পদপ্রার্থী
+                    <p className=" py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
+                      এমপি পদপ্রার্থী 
                     </p>
                     <p className="py-2 text-zinc-400 text-[22px] text-sm font-['Li Ador Noirrit'] leading-normal">
                       রাজশাহী বিভাগ
@@ -237,11 +237,10 @@ const Candidates = () => {
               <button className="join-item btn btn-xs">4</button>
             </div>
           </div>
-         
-            <h2 className="w-4/6 rounded-lg -top-7 shadow-2xl absolute border-2  p-2.5 bg-emerald-800  gap-2.5 text-white font-['Li Ador Noirrit']">
-              দেশের শীর্ষ পর্যায়ের প্রার্থীগণ
-            </h2>
-          
+
+          <h2 className="w-4/6 rounded-lg -top-7 shadow-2xl absolute border-2  p-2.5 bg-emerald-800  gap-2.5 text-white font-['Li Ador Noirrit']">
+            দেশের শীর্ষ পর্যায়ের প্রার্থীগণ
+          </h2>
         </div>
       </div>
     </div>

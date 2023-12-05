@@ -27,7 +27,7 @@ const Banner = () => {
         <div className="form-control">
         <label className="label">
           </label>
-          <input type="text" placeholder="নির্বাচনী এলাকা নির্বাচন করুন" className="input input-bordered text-zinc-700 text-sm  font-['Li Ador Noirrit'] leading-normal" required/>
+          <input type="text" placeholder="নির্বাচনী এলাকা নির্বাচন করুন" className="input input-bordered text-zinc-700 text-sm  font-['Li Ador Noirrit'] leading-normal" required />
         </div>
         
 
@@ -42,28 +42,32 @@ const Banner = () => {
     <div className="absolute left-3/4 bottom-1/4">
     <div className="grid grid-flow-col gap-3 text-center auto-cols-max">
   <div className="flex flex-col p-2 bg-green-100 rounded-box text-emerald-800">
+  দিন
     <span className="countdown font-['Li Ador Noirrit'] text-4xl">
       <span style={{"--value":15}}></span>
     </span>
-    দিন
+    
   </div> 
   <div className="flex flex-col p-1 bg-green-100 rounded-box text-emerald-800">
+  ঘণ্টা
     <span className="countdown font-['Li Ador Noirrit'] text-4xl">
       <span style={{"--value":10}}></span>
     </span>
-    ঘণ্টা
+    
   </div> 
   <div className="flex flex-col p-2 bg-green-100 rounded-box text-emerald-800">
+  মিনিট
     <span className="countdown font-['Li Ador Noirrit'] text-4xl">
       <span style={{"--value":24}}></span>
     </span>
-    মিনিট
+    
   </div> 
   <div className="flex flex-col p-2 bg-green-100 rounded-box text-emerald-800">
+  সেকেন্ড
     <span className="countdown font-['Li Ador Noirrit'] text-4xl">
       <span style={{"--value":29}}></span>
     </span>
-    সেকেন্ড
+    
   </div>
 </div>
     </div>
