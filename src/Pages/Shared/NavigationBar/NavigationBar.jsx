@@ -1,5 +1,6 @@
-import { Link } from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import { FaFlag } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa";
 
 
 const NavigationBar = () => {
@@ -46,11 +47,10 @@ const NavigationBar = () => {
         </ul>
       </div>
       <div className="navbar-end gap-5">
-      
-      <Link to='/' className="cif-bd"> <span>ভাষা</span></Link>
+      <NavLink className='flex flex-row justify-center items-center gap-2'><FaFacebook />ভাষা</NavLink>
+     
       <Link to='' className="cil-energy icon icon-xxl">অঞ্চল</Link>
       </div>
-      
     </div>
   );
 };
