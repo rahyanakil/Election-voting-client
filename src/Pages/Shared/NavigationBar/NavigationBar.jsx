@@ -1,11 +1,12 @@
 import { Link, NavLink } from "react-router-dom";
-import { FaFlag } from "react-icons/fa";
-import { FaFacebook } from "react-icons/fa";
+import { FaEarthAmericas } from "react-icons/fa6";
+import { FaRegFlag } from "react-icons/fa6";
+
 
 
 const NavigationBar = () => {
   const NavItems  =<>
-     <li><Link to='/'>নির্বাচনী<br/>এলাকা</Link></li>
+     <li className=""><Link to='/'>নির্বাচনী<br/>এলাকা</Link></li>
      <li><Link to='/'>রাজনৈতিক<br/>দল </Link></li>
      <li><Link to='/'>নির্বাচনী<br/>ইস্তেহার</Link></li>
      <li><Link to='/'>লগ আউট</Link></li>
@@ -32,7 +33,7 @@ const NavigationBar = () => {
           </div>
           <ul
             tabIndex={0}
-            className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
+            className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow rounded-box w-52 ">
            
           {NavItems}
 
@@ -46,11 +47,15 @@ const NavigationBar = () => {
           {NavItems}
         </ul>
       </div>
-      <div className="navbar-end gap-5">
-      <NavLink className='flex flex-row justify-center items-center gap-2'><FaFacebook />ভাষা</NavLink>
+      <div className="navbar-end gap-6">
+      
+      <NavLink to='/' className="flex flex-row gap-2 items-center justify-center "> ভাষা 
+<FaRegFlag /> </NavLink>
      
-      <Link to='' className="cil-energy icon icon-xxl">অঞ্চল</Link>
+
+      <Link to='' className="cil-energy icon icon-xxl flex flex-row gap-2 items-center justify-center">অঞ্চল <FaEarthAmericas /></Link>
       </div>
+      
     </div>
   );
 };
